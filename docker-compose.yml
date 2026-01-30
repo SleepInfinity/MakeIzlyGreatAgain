@@ -1,0 +1,7 @@
+services:
+  izly-app:
+    build: .
+    container_name: izly-app
+    ports:
+      - "8080:8080"
+    restart: unless-stopped

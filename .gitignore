@@ -32,3 +32,5 @@ Thumbs.db
 
 # My PyCharm / VSCode misc
 *.iml
+
+main.py
